@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_3sdp"
+    android:elevation="@dimen/_10sdp"
+    android:outlineAmbientShadowColor="#0D3F45"
+    app:cardCornerRadius="@dimen/_10sdp">
+
+    <LinearLayout
+        android:id="@+id/wholeItem"
+        android:clickable="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusable="true">
+
+        <TextView
+            android:textSize="@dimen/_15sdp"
+            android:textColor="@color/mainActivityTextColor"
+            android:id="@+id/event_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:text="@string/event_name" />
+
+        <TextView
+            android:textSize="@dimen/_15sdp"
+            android:textColor="@color/mainActivityTextColor"
+            android:id="@+id/discreption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:text="@string/event_description" />
+
+        <TextView
+            android:textSize="@dimen/_15sdp"
+            android:textColor="@color/mainActivityTextColor"
+            android:id="@+id/number_of_families"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:text="@string/number_of_families" />
+
+        <TextView
+            android:textSize="@dimen/_15sdp"
+            android:textColor="@color/mainActivityTextColor"
+            android:id="@+id/remaining_families"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:text="@string/remaining_families" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جمعية التقوي</string>
+    <string name="all_family">جميع الأسر</string>
+    <string name="scan_QR_code">مسح كود ال QR</string>
+    <string name="id_number">الرقم القومي</string>
+    <string name="wife_name">اسم الزوجة</string>
+    <string name="social_status">الحالة الاجتماعية</string>
+    <string name="sons_number">عدد الأبناء</string>
+    <string name="work">العمل</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="address">العنوان</string>
+    <string name="status">تقييم احتياج الحالة</string>
+    <string name="income">الدخل</string>
+    <string name="dept">الدين</string>
+    <string name="married">متزوج</string>
+    <string name="single">عازب</string>
+    <string name="widow">ارملة</string>
+    <string name="divorced">مطلق</string>
+    <string name="addedSuccessfully">تمت الاضافة بنجاح</string>
+    <string name="failed_to_add">فشلت عملية الاضافة</string>
+    <string name="acceptPermission">" يجب عليك قبول الإذن"</string>
+    <string name="husbandOrWifeNameRequired">" يجب ادخال اسم الزوج أو اسم الزوجة"</string>
+    <string name="errorIdString">" يجب أن يحتوي الرقم القومي على 14 رقمًا"</string>
+    <string name="update_data">تحديث البيانات</string>
+    <string name="updateData">تحديث البيانات</string>
+    <string name="families_number">عدد الأسر</string>
+    <string name="add_family">اضف اسرة</string>
+    <string name="number_of_families">عدد الأسر</string>
+    <string name="remaining_families">الأسر المتبقية</string>
+    <string name="husband_name">اسم الزوج</string>
+    <string name="others">معلومات اخرى</string>
+    <string name="Events">حدث</string>
+    <string name="event_name">اسم الحدث</string>
+    <string name="event_description">وصف الحدث</string>
+    <string name="add_event">اضافة حدث</string>
+    <string name="events_list">قائمة الاحداث</string>
+    <string name="taken_family_error">خطأ : هذه الاسرة اخذت من قبل</string>
+    <string name="search_here">ابحث هنا</string>
+    <string name="removed_successfully">تم المسح بنجاح</string>
+    <string name="children">الابناء :</string>
+</resources>

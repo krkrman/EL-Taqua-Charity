@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">EL-Taqua Charity</string>
+    <string name="all_family">All Family</string>
+    <string name="Events">Events</string>
+    <string name="scan_QR_code">Scan QR Code</string>
+    <string name="id_number">ID Number</string>
+    <string name="wife_name">Wife Name</string>
+    <string name="social_status">Social Status</string>
+    <string name="sons_number">Sons Number</string>
+    <string name="work">Work</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="status">status</string>
+    <string name="income">Income</string>
+    <string name="dept">Dept</string>
+    <string name="married">Married</string>
+    <string name="single">Single</string>
+    <string name="widow">Widow</string>
+    <string name="divorced">Divorced</string>
+    <string name="addedSuccessfully">Added Successfully</string>
+    <string name="failed_to_add">failed to add</string>
+    <string name="acceptPermission">You must accept the permission</string>
+    <string name="errorIdString">The national id should contain 14 numbers</string>
+    <string name="husbandOrWifeNameRequired">Husband name or wife name required</string>
+    <string name="update_data">Update Data</string>
+    <string name="updateData">Update Data</string>
+    <string name="event_name">Event name</string>
+    <string name="event_description">Event Description</string>
+    <string name="add_event">Add Event</string>
+    <string name="families_number">Families Number</string>
+    <string name="add_family">Add Family</string>
+    <string name="number_of_families">Number Of Families</string>
+    <string name="remaining_families">Remaining Families</string>
+    <string name="events_list">Events List</string>
+    <string name="husband_name">Husband Name</string>
+    <string name="others">others</string>
+    <string name="taken_family_error">ERROR : This Family took before</string>
+    <string name="search_here">Search here</string>
+    <string name="removed_successfully">Removed Successfully</string>
+    <string name="children">Children :</string>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search_bar"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <group android:id="@+id/group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/husband_search"
+            android:title="@string/husband_name"
+            android:checkable="true"
+            app:actionLayout="@layout/switch_item"
+            />
+        <item
+            android:checkable="true"
+            android:id="@+id/wife_search"
+            android:title="@string/wife_name"
+            android:checked="true"
+            app:actionLayout="@layout/switch_item"
+            />
+        <item
+            android:checkable="true"
+            android:id="@+id/id_search"
+            android:title="@string/id_number"
+            app:actionLayout="@layout/switch_item" />
+
+        <item
+            android:checkable="true"
+            android:id="@+id/address_search"
+            android:title="@string/address"
+            android:checked="false"
+            app:actionLayout="@layout/switch_item"
+            />
+    </group>
+
+</menu>

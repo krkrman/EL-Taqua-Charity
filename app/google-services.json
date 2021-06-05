@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175585725165",
+    "firebase_url": "https://el-taqua-charity.firebaseio.com",
+    "project_id": "el-taqua-charity",
+    "storage_bucket": "el-taqua-charity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175585725165:android:8387cd464b03d29f819ae4",
+        "android_client_info": {
+          "package_name": "com.example.el_taquacharity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175585725165-orru8ka85p55lnvi2ee8oppf8m0ucb01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.el_taquacharity",
+            "certificate_hash": "71976fe5c794216808ca3b33cad2d27a7f5314cf"
+          }
+        },
+        {
+          "client_id": "175585725165-veke6bk31au8ut5arhf6gqe9ivp4b5ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52Pvt7qXqXbJZZS61ZGpfPcv2uP1Mz9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175585725165-veke6bk31au8ut5arhf6gqe9ivp4b5ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
